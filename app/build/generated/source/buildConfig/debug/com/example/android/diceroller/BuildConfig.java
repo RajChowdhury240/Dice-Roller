@@ -1,6 +1,7 @@
 /**
  * Automatically generated file. DO NOT MODIFY
  */
+
 package com.example.android.diceroller;
 
 public final class BuildConfig {
