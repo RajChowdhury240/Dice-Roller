@@ -29,6 +29,7 @@ class MainActivity : AppCompatActivity() {
         diceImage = findViewById(R.id.dice_image)
     }
 
+    
     /**
      * Click listener for the Roll button.
      */
