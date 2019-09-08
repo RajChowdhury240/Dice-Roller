@@ -13,6 +13,7 @@ import java.util.*
  * It contains one button that updates a text view with a random
  * value between 1 and 6.
  */
+
 class MainActivity : AppCompatActivity() {
 
     lateinit var diceImage : ImageView
