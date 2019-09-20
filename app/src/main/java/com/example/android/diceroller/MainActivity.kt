@@ -9,12 +9,6 @@ import android.widget.Toast
 import java.util.*
 
 
-/**
- * DiceRoller demonstrates simple interactivity in an Android app.
- * It contains one button that updates a text view with a random
- * value between 1 and 6.
- */
-
 class MainActivity : AppCompatActivity() {
 
     lateinit var diceImage : ImageView
@@ -31,9 +25,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     
-    /**
-     * Click listener for the Roll button.
-     */
+    
     private fun rollDice() {
         // Toast.makeText(this, "button clicked",
         //  Toast.LENGTH_SHORT).show()
