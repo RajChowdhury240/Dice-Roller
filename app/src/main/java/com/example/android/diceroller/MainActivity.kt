@@ -9,6 +9,8 @@ import android.widget.Toast
 import java.util.*
 
 
+// Coded By Raj Chowdhury
+
 class MainActivity : AppCompatActivity() {
 
     lateinit var diceImage : ImageView
