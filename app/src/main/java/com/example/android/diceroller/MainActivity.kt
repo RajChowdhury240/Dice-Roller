@@ -8,7 +8,6 @@ import android.widget.TextView
 import android.widget.Toast
 import java.util.*
 
-
 // Coded By Raj Chowdhury
 
 class MainActivity : AppCompatActivity() {
