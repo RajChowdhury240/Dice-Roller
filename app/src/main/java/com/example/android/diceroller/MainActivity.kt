@@ -45,4 +45,3 @@ class MainActivity : AppCompatActivity() {
         diceImage.setImageResource(drawableResource)
     }
 }
-
